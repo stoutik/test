@@ -1,0 +1,12 @@
+{
+    "name": "stoutik/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "Stouti Yassine",
+            "email": "yassine.stouti@cartware.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
