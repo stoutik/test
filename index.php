@@ -1,3 +1,3 @@
 <?php
 
-echo "second version";
+echo "second version v1.0.0";
